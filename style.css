@@ -1,0 +1,131 @@
+#body1{
+	background-image: url(bg1.jpg);
+	background-size: cover;
+}
+#body2{
+	background-image: url(UCL.jpg);
+	background-size: cover;
+}
+#body3{
+	background-image: url(WC.jpg);
+	background-size: cover;
+}
+#body4{
+	background-image: url(euro.jpg);
+	background-size: cover;
+}
+
+#h1one{
+	color: khaki;
+	font-size: 60px;
+	font-family: sans-serif;
+	text-align: center;
+}
+#h1two{
+	color: #9900FF;
+	font-size: 60px;
+	font-family: sans-serif;
+	text-align: center;
+}
+#h1three{
+	color: #FFCC00;
+	font-size: 60px;
+	font-family: sans-serif;
+	text-align: center;
+}
+#h1four{
+	color: #FF3300;
+	font-size: 60px;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+
+.h3one{
+	color: khaki;
+font-size: 40px;
+font-family: sans-serif;
+text-align: center;
+}
+.h3two{
+	color: #9900FF;
+font-size: 25px;
+font-family: sans-serif;
+}
+.h3three{
+	color:#FFCC00 ;
+font-size: 25px;
+font-family: sans-serif;
+}
+.h3four{
+	color:#FF3300 ;
+font-size: 25px;
+font-family: sans-serif;
+text-align: center;
+}
+
+#pre1{
+	color: khaki;
+	font-family: sans-serif;
+	font-size: 18px;
+	text-align: center;
+}
+#pre2{
+	color: #9900FF;
+	font-family:fantasy;
+	font-size: 16px;
+	text-align: left;
+}
+#pre3{
+	color: #FFCC00;
+	font-family:fantasy;
+	font-size: 16px;
+	text-align: left;
+}
+#pre4{
+	color:#FF3300 ;
+	font-family:fantasy;
+	font-size: 20px;
+	text-align: center;
+	background-blend-mode: all;
+
+}
+.hr1{
+	border: 2px solid khaki;
+}
+
+#ul1 li{
+	display: inline-block;
+	color: khaki;
+	font-family: sans-serif;
+	font-size: 45px;
+	margin-left: 190px
+}
+.ul2 li{
+	color: #9900FF;
+	font-size: 22px;
+	font-family: fantasy;
+}
+.ul3 li{
+	color: #FFCC00;
+	font-size: 22px;
+	font-family: fantasy;
+}
+.ul4 li{
+	color: #FF3300;
+	font-size: 22px;
+	font-family: fantasy;
+	text-align: center;
+}
+.a1{
+	color: khaki;
+	text-decoration: none;
+}
+.a1:hover{
+	background-color: #1A237E;
+}
+#video1{
+	
+	margin-left: 340px;
+	
+}
